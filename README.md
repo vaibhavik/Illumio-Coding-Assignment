@@ -1,6 +1,5 @@
-# Illumio-Coding-Assignment
+# Coding-Assignment
 
-## *Team Preference - Data Team*
 
 ###### The assignment uses pandas library to store the rules
 ###### > pip install pandas
